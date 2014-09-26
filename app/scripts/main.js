@@ -1,7 +1,7 @@
-/*global Library, $*/
+/*global Installer, $*/
 
 
-window.Library = {
+window.Installer = {
     Models: {},
     Collections: {},
     Views: {},
@@ -14,5 +14,5 @@ window.Library = {
 
 $(document).ready(function () {
     'use strict';
-    Library.init();
+    Installer.init();
 });

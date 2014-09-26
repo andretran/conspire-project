@@ -20,8 +20,8 @@
     "smarttabs": true,
     "jquery": true,
     "globals": {
-        "Library": true,
-        "library": true,
+        "Installer": true,
+        "installer": true,
         "_": false,
         "Backbone": false,
         "JST": false,
